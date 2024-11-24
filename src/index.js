@@ -65,7 +65,3 @@ if (require.main === module) {
 }
 
 module.exports = { ChainPulse, ChainPulseCore };
-
-# revision 1 (2024-10-27): review pass
-
-# revision 8 (2024-11-21): review pass
